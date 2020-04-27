@@ -135,4 +135,5 @@ Al seleccionar al usuario y abrir el tab nos va enviar a esta pantalla
 Como vimos anteriormente en el punto **4** nos va permitir sacarlo del Bot 🤖, solo hay que verificar que diga **Send a Start Live Chat** , si dice otra cosa significa que ya el bot esta desactivado 
 
 [Regresar a Contenido](#content)
+
 ***
