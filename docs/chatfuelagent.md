@@ -2,6 +2,7 @@
 #Manual Chatfuel para Agentes
 ### ver 1.00
 ***
+
 ## Contenido <a id="content" />
 * [Como accesar](#link2Chatfuel)
 * [Estructura de Pantalla](#chatfuel)
@@ -27,6 +28,7 @@ Después presionar como lo señala la imagen.
 [Regresar a Contenido](#content)
 
 ***
+
 ## Estructura de Pantalla <a id="chatfuel"></a>
 ![Estructura ChatFuel](images/chatfuelHome.jpg)
 1. **LiveChat**: En esta sección podemos ver las conversaciones que están siendo procesadas por el Mi Compa Bot  🤖.
@@ -43,7 +45,9 @@ Después presionar como lo señala la imagen.
 
 
 [Regresar a Contenido](#content)
+ 
  ***
+ 
 ## LiveChat <a id="livechat"></a>
 Sección donde se muestran los chats que procesa el chatbot
 
@@ -62,6 +66,7 @@ Sección donde se muestran los chats que procesa el chatbot
 [Regresar a Contenido](#content)
 
 ***
+
 ### Closed Chats <a id="closedLiveChat"></a>
 ![Closed LiveChat](images/chatfuelLivechatClosed.jpg)
 1. **Usuario Seleccionado**: Se mostrara el chat al darle click al nombre del Usuario.
@@ -111,6 +116,7 @@ En esta sección se pueden hacer búsquedas de usuarios.
 
 
 [Regresar a Contenido](#content)
+
 ***
 
 ## Como busco a un Usuario <a id="searchPeople"></a>
@@ -119,8 +125,10 @@ Es recomendado usar Ctrl Click o ⌘ Click  para que se abra otro Tab.
 ![Buscar Usuario](images/chatfuelSearchUser.jpg)
 
 [Regresar a Contenido](#content)
+
 ***
-## Como apago a Mi Compa Bot< <a id="exitBot"></a>
+
+## Como apago a Mi Compa Bot <a id="exitBot"></a>
 ![Buscar Usuario](images/chatfuelSearchUser.jpg)
 Al seleccionar al usuario y abrir el tab nos va enviar a esta pantalla
 ![Closed LiveChat](images/chatfuelLivechatAll.jpg)
