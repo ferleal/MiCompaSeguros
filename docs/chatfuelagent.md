@@ -1,5 +1,5 @@
 ![Mi Compa Logo](images/micompalogo.jpg)
-# Manual Chatfuel para Agentes
+#Manual Chatfuel para Agentes
 ### ver 1.00
 ***
 ## Contenido <a id="content" />
@@ -29,22 +29,23 @@ Después presionar como lo señala la imagen.
 ***
 ## Estructura de Pantalla <a id="chatfuel"></a>
 ![Estructura ChatFuel](images/chatfuelHome.jpg)
-1. **LiveChat**: En esta sección podemos ver las conversaciones que están siendo procesadas por el Mi Compa Bot  🤖.   
+1. **LiveChat**: En esta sección podemos ver las conversaciones que están siendo procesadas por el Mi Compa Bot  🤖.
 
-2. **Active**: Son los chats que el usuario solicito un Asesor.
+2. **Closed**: Son las que cerramos al seleccionar que lo regresamos al bot.
+3. **User**: Aquí podemos cerrar sesión.
 
-3. **Closed**: Son las que cerramos al seleccionar que lo regresamos al bot.
+4. **People**: Es donde podemos buscar usuarios.
 
-4. **All**: Son Todas las conversaciones que el Bot tuvo contacto.
+5. **Active**: Son los chats que el usuario solicito un Asesor.
 
-5. **User**: Aquí podemos cerrar sesión.
+6. **All**: Son Todas las conversaciones que el Bot tuvo contacto.
 
-6. **People**: Es donde podemos buscar usuarios.
 
 
 [Regresar a Contenido](#content)
  ***
 ## LiveChat <a id="livechat"></a>
+Sección donde se muestran los chats que procesa el chatbot
 
 ### Active Chats <a id="activeLiveChat"></a>
 ![Active LiveChat](images/chatfuelLivechat.jpg)
@@ -93,7 +94,37 @@ Después presionar como lo señala la imagen.
 
 ***
 
-##People
+## People <a id="people"></a>
+En esta sección se pueden hacer búsquedas de usuarios.
+
+![Chatfuel People](images/chatfuelPeople.jpg)
+
+1. **Selección de atributo**: Podemos seleccionar sobre que atributo queremos buscar pero solo usaremos dos:
+    * first name
+    * last name
+
+2. **Valor del atributo**: Pondremos lo que queremos buscar del atributo seleccionado.
+    
+3. **Agregar otra búsqueda**: Se agrega otro campo para buscar otro atributo.
+
+4. **Mostrar LiveChat**: Nos lleva a mostrar el user buscado en Livechat para poder interactuar con el. 
 
 
+[Regresar a Contenido](#content)
+***
 
+## Como busco a un Usuario <a id="searchPeople"></a>
+Debes buscar por su "First Name", "Last Name" y después presionar al botón de enviar a livechat.
+Es recomendado usar Ctrl Click o ⌘ Click  para que se abra otro Tab.
+![Buscar Usuario](images/chatfuelSearchUser.jpg)
+
+[Regresar a Contenido](#content)
+***
+## Como apago a Mi Compa Bot< <a id="exitBot"></a>
+![Buscar Usuario](images/chatfuelSearchUser.jpg)
+Al seleccionar al usuario y abrir el tab nos va enviar a esta pantalla
+![Closed LiveChat](images/chatfuelLivechatAll.jpg)
+Como vimos anteriormente en el punto **4** nos va permitir sacarlo del Bot 🤖, solo hay que verificar que diga **Send a Start Live Chat** , si dice otra cosa significa que ya el bot esta desactivado 
+
+[Regresar a Contenido](#content)
+***
